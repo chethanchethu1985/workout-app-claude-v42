@@ -1,0 +1,1 @@
+MY WORKOUTS - Claude_V4.2. See V4_2_BUILD_AND_RELEASE.md. Older documents are in docs/.
